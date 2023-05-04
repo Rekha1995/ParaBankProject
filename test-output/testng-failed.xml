@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [Para Bank APP]" guice-stage="DEVELOPMENT" verbose="4">
+  <test thread-count="3" name="Para Bank APP AboutUs Page Test(failed)" verbose="4">
+    <classes>
+      <class name="com.PB.PageTest.PB_AboutUsPageTest">
+        <methods>
+          <include name="closebrowser"/>
+          <include name="customer_noTest"/>
+          <include name="navigateTo_PB_AboutUsPage"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.PB.PageTest.PB_AboutUsPageTest -->
+    </classes>
+  </test> <!-- Para Bank APP AboutUs Page Test(failed) -->
+</suite> <!-- Failed suite [Para Bank APP] -->

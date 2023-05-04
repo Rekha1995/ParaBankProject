@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="62" passed="61" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-04T23:15:45 IST" name="Para Bank APP" finished-at="2023-05-04T23:19:03 IST" duration-ms="198655">
+    <groups>
+    </groups>
+    <test started-at="2023-05-04T23:15:45 IST" name="Para Bank APP Login Page Test" finished-at="2023-05-04T23:16:02 IST" duration-ms="17143">
+      <class name="com.PB.PageTest.PB_LoginpageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:45 IST" name="setup" finished-at="2023-05-04T23:15:54 IST" duration-ms="9295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="currenturlTest()[pri:1, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:54 IST" name="currenturlTest" finished-at="2023-05-04T23:15:54 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currenturlTest -->
+        <test-method signature="headertextTest()[pri:2, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:54 IST" name="headertextTest" finished-at="2023-05-04T23:15:54 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headertextTest -->
+        <test-method signature="errormsgTest()[pri:3, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:54 IST" name="errormsgTest" finished-at="2023-05-04T23:15:55 IST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errormsgTest -->
+        <test-method signature="errtextTest()[pri:4, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:55 IST" name="errtextTest" finished-at="2023-05-04T23:15:56 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errtextTest -->
+        <test-method signature="invalidloginTest()[pri:5, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:56 IST" name="invalidloginTest" finished-at="2023-05-04T23:15:56 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidloginTest -->
+        <test-method signature="invalidloginTest1()[pri:6, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:56 IST" name="invalidloginTest1" finished-at="2023-05-04T23:15:57 IST" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidloginTest1 -->
+        <test-method signature="invalidloginTest2()[pri:7, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:57 IST" name="invalidloginTest2" finished-at="2023-05-04T23:15:57 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidloginTest2 -->
+        <test-method signature="successfullLoginTest()[pri:8, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:57 IST" name="successfullLoginTest" finished-at="2023-05-04T23:15:58 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfullLoginTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_LoginpageTest@121314f7]" started-at="2023-05-04T23:15:58 IST" name="closebrowser" finished-at="2023-05-04T23:16:02 IST" duration-ms="3494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_LoginpageTest -->
+    </test> <!-- Para Bank APP Login Page Test -->
+    <test started-at="2023-05-04T23:16:02 IST" name="Para Bank APP Home Page Test" finished-at="2023-05-04T23:16:15 IST" duration-ms="13025">
+      <class name="com.PB.PageTest.PB_HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:02 IST" name="setup" finished-at="2023-05-04T23:16:10 IST" duration-ms="7587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateToHomepageTest()[pri:0, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:10 IST" name="navigateToHomepageTest" finished-at="2023-05-04T23:16:11 IST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomepageTest -->
+        <test-method signature="currenturlTest()[pri:1, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:11 IST" name="currenturlTest" finished-at="2023-05-04T23:16:11 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currenturlTest -->
+        <test-method signature="headertextTest()[pri:2, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:11 IST" name="headertextTest" finished-at="2023-05-04T23:16:11 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headertextTest -->
+        <test-method signature="totallinkscountTest()[pri:3, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:11 IST" name="totallinkscountTest" finished-at="2023-05-04T23:16:11 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totallinkscountTest -->
+        <test-method signature="headerlinkscountTest()[pri:4, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:11 IST" name="headerlinkscountTest" finished-at="2023-05-04T23:16:11 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerlinkscountTest -->
+        <test-method signature="welcomelinkstextTest()[pri:5, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:11 IST" name="welcomelinkstextTest" finished-at="2023-05-04T23:16:11 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcomelinkstextTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_HomePageTest@7674f035]" started-at="2023-05-04T23:16:11 IST" name="closebrowser" finished-at="2023-05-04T23:16:15 IST" duration-ms="3533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_HomePageTest -->
+    </test> <!-- Para Bank APP Home Page Test -->
+    <test started-at="2023-05-04T23:16:15 IST" name="Para Bank APP OpenNewAccount Page Test" finished-at="2023-05-04T23:16:37 IST" duration-ms="21991">
+      <class name="com.PB.PageTest.PB_OpenNewAccountPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_OpenNewAccountPageTest@27406a17]" started-at="2023-05-04T23:16:15 IST" name="setup" finished-at="2023-05-04T23:16:21 IST" duration-ms="6073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateTo_OpenNewAccountTest()[pri:0, instance:com.PB.PageTest.PB_OpenNewAccountPageTest@27406a17]" started-at="2023-05-04T23:16:21 IST" name="navigateTo_OpenNewAccountTest" finished-at="2023-05-04T23:16:23 IST" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo_OpenNewAccountTest -->
+        <test-method signature="currenurlTest()[pri:1, instance:com.PB.PageTest.PB_OpenNewAccountPageTest@27406a17]" started-at="2023-05-04T23:16:23 IST" name="currenurlTest" finished-at="2023-05-04T23:16:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currenurlTest -->
+        <test-method signature="headertextTest()[pri:2, instance:com.PB.PageTest.PB_OpenNewAccountPageTest@27406a17]" started-at="2023-05-04T23:16:23 IST" name="headertextTest" finished-at="2023-05-04T23:16:23 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headertextTest -->
+        <test-method signature="createAccountTest()[pri:3, instance:com.PB.PageTest.PB_OpenNewAccountPageTest@27406a17]" started-at="2023-05-04T23:16:23 IST" name="createAccountTest" finished-at="2023-05-04T23:16:33 IST" duration-ms="10228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_OpenNewAccountPageTest@27406a17]" started-at="2023-05-04T23:16:33 IST" name="closebrowser" finished-at="2023-05-04T23:16:37 IST" duration-ms="4101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_OpenNewAccountPageTest -->
+    </test> <!-- Para Bank APP OpenNewAccount Page Test -->
+    <test started-at="2023-05-04T23:16:37 IST" name="Para Bank APP AccountOverview Page Test" finished-at="2023-05-04T23:16:53 IST" duration-ms="16291">
+      <class name="com.PB.PageTest.PB_AccountOverviewPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:37 IST" name="setup" finished-at="2023-05-04T23:16:43 IST" duration-ms="6169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigatetoAccountOverviewTest()[pri:0, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:43 IST" name="navigatetoAccountOverviewTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoAccountOverviewTest -->
+        <test-method signature="currenturlTest()[pri:1, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="currenturlTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currenturlTest -->
+        <test-method signature="headertextTest()[pri:2, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="headertextTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headertextTest -->
+        <test-method signature="Tablecol_countTest()[pri:3, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="Tablecol_countTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tablecol_countTest -->
+        <test-method signature="Tablecol_TextTest()[pri:4, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="Tablecol_TextTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tablecol_TextTest -->
+        <test-method signature="Table_col_textTest()[pri:5, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="Table_col_textTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Table_col_textTest -->
+        <test-method signature="check_balanceTest()[pri:6, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="check_balanceTest" finished-at="2023-05-04T23:16:45 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_balanceTest -->
+        <test-method signature="AccountverifyTest()[pri:7, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:45 IST" name="AccountverifyTest" finished-at="2023-05-04T23:16:49 IST" duration-ms="4090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountverifyTest -->
+        <test-method signature="Acc_headerTest()[pri:8, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:49 IST" name="Acc_headerTest" finished-at="2023-05-04T23:16:49 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_headerTest -->
+        <test-method signature="AccountTypeverifyTest()[pri:9, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:49 IST" name="AccountTypeverifyTest" finished-at="2023-05-04T23:16:49 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountTypeverifyTest -->
+        <test-method signature="acc_activityTest()[pri:10, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:49 IST" name="acc_activityTest" finished-at="2023-05-04T23:16:50 IST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acc_activityTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_AccountOverviewPageTest@1ca3b418]" started-at="2023-05-04T23:16:50 IST" name="closebrowser" finished-at="2023-05-04T23:16:53 IST" duration-ms="3387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_AccountOverviewPageTest -->
+    </test> <!-- Para Bank APP AccountOverview Page Test -->
+    <test started-at="2023-05-04T23:16:53 IST" name="Para Bank APP TransferFunds Page Test" finished-at="2023-05-04T23:17:14 IST" duration-ms="20217">
+      <class name="com.PB.PageTest.PB_TransferFundsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_TransferFundsPageTest@19e4653c]" started-at="2023-05-04T23:16:53 IST" name="setup" finished-at="2023-05-04T23:17:01 IST" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateTo_Transferfund_Test()[pri:0, instance:com.PB.PageTest.PB_TransferFundsPageTest@19e4653c]" started-at="2023-05-04T23:17:01 IST" name="navigateTo_Transferfund_Test" finished-at="2023-05-04T23:17:04 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo_Transferfund_Test -->
+        <test-method signature="getpageurlTest()[pri:1, instance:com.PB.PageTest.PB_TransferFundsPageTest@19e4653c]" started-at="2023-05-04T23:17:04 IST" name="getpageurlTest" finished-at="2023-05-04T23:17:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpageurlTest -->
+        <test-method signature="pageheadertextTest()[pri:2, instance:com.PB.PageTest.PB_TransferFundsPageTest@19e4653c]" started-at="2023-05-04T23:17:04 IST" name="pageheadertextTest" finished-at="2023-05-04T23:17:04 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageheadertextTest -->
+        <test-method signature="errormsgTest()[pri:3, instance:com.PB.PageTest.PB_TransferFundsPageTest@19e4653c]" started-at="2023-05-04T23:17:04 IST" name="errormsgTest" finished-at="2023-05-04T23:17:10 IST" duration-ms="5627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errormsgTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_TransferFundsPageTest@19e4653c]" started-at="2023-05-04T23:17:10 IST" name="closebrowser" finished-at="2023-05-04T23:17:14 IST" duration-ms="3717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_TransferFundsPageTest -->
+    </test> <!-- Para Bank APP TransferFunds Page Test -->
+    <test started-at="2023-05-04T23:17:14 IST" name="Para Bank APP BillPay Page Test" finished-at="2023-05-04T23:17:26 IST" duration-ms="12896">
+      <class name="com.PB.PageTest.PB_BillPayTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:14 IST" name="setup" finished-at="2023-05-04T23:17:20 IST" duration-ms="6182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateTo_PB_BillPay()[pri:0, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:20 IST" name="navigateTo_PB_BillPay" finished-at="2023-05-04T23:17:22 IST" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo_PB_BillPay -->
+        <test-method signature="geturlTest()[pri:1, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:22 IST" name="geturlTest" finished-at="2023-05-04T23:17:22 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturlTest -->
+        <test-method signature="PageheaderTest()[pri:2, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:22 IST" name="PageheaderTest" finished-at="2023-05-04T23:17:22 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageheaderTest -->
+        <test-method signature="inform_textTest()[pri:3, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:22 IST" name="inform_textTest" finished-at="2023-05-04T23:17:22 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inform_textTest -->
+        <test-method signature="requiredfieldsTest()[pri:4, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:22 IST" name="requiredfieldsTest" finished-at="2023-05-04T23:17:22 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requiredfieldsTest -->
+        <test-method signature="requiredfieldsTextTest()[pri:5, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:22 IST" name="requiredfieldsTextTest" finished-at="2023-05-04T23:17:22 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requiredfieldsTextTest -->
+        <test-method signature="PaymentcompleteTest()[pri:6, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:22 IST" name="PaymentcompleteTest" finished-at="2023-05-04T23:17:23 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaymentcompleteTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_BillPayTest@7bba5817]" started-at="2023-05-04T23:17:23 IST" name="closebrowser" finished-at="2023-05-04T23:17:26 IST" duration-ms="3417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_BillPayTest -->
+    </test> <!-- Para Bank APP BillPay Page Test -->
+    <test started-at="2023-05-04T23:17:26 IST" name="Para Bank APP FindTransaction Page Test" finished-at="2023-05-04T23:17:39 IST" duration-ms="12692">
+      <class name="com.PB.PageTest.PB_FindTransactionPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_FindTransactionPageTest@15043a2f]" started-at="2023-05-04T23:17:26 IST" name="setup" finished-at="2023-05-04T23:17:34 IST" duration-ms="7640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateTo_PB_FindTransaction()[pri:0, instance:com.PB.PageTest.PB_FindTransactionPageTest@15043a2f]" started-at="2023-05-04T23:17:34 IST" name="navigateTo_PB_FindTransaction" finished-at="2023-05-04T23:17:36 IST" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo_PB_FindTransaction -->
+        <test-method signature="geturlTest()[pri:1, instance:com.PB.PageTest.PB_FindTransactionPageTest@15043a2f]" started-at="2023-05-04T23:17:36 IST" name="geturlTest" finished-at="2023-05-04T23:17:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturlTest -->
+        <test-method signature="Find_headerPagetextTest()[pri:2, instance:com.PB.PageTest.PB_FindTransactionPageTest@15043a2f]" started-at="2023-05-04T23:17:36 IST" name="Find_headerPagetextTest" finished-at="2023-05-04T23:17:36 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Find_headerPagetextTest -->
+        <test-method signature="drop_optTest()[pri:3, instance:com.PB.PageTest.PB_FindTransactionPageTest@15043a2f]" started-at="2023-05-04T23:17:36 IST" name="drop_optTest" finished-at="2023-05-04T23:17:36 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drop_optTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_FindTransactionPageTest@15043a2f]" started-at="2023-05-04T23:17:36 IST" name="closebrowser" finished-at="2023-05-04T23:17:39 IST" duration-ms="3413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_FindTransactionPageTest -->
+    </test> <!-- Para Bank APP FindTransaction Page Test -->
+    <test started-at="2023-05-04T23:17:39 IST" name="Para Bank APP Updatecontactinfo Page Test" finished-at="2023-05-04T23:17:54 IST" duration-ms="14927">
+      <class name="com.PB.PageTest.PB_Upadate_contact_infopageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_Upadate_contact_infopageTest@3ba987b8]" started-at="2023-05-04T23:17:39 IST" name="setup" finished-at="2023-05-04T23:17:47 IST" duration-ms="7524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateTo_UpadateContactinfoTest()[pri:0, instance:com.PB.PageTest.PB_Upadate_contact_infopageTest@3ba987b8]" started-at="2023-05-04T23:17:47 IST" name="navigateTo_UpadateContactinfoTest" finished-at="2023-05-04T23:17:49 IST" duration-ms="2371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo_UpadateContactinfoTest -->
+        <test-method signature="getpageurl()[pri:1, instance:com.PB.PageTest.PB_Upadate_contact_infopageTest@3ba987b8]" started-at="2023-05-04T23:17:49 IST" name="getpageurl" finished-at="2023-05-04T23:17:49 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpageurl -->
+        <test-method signature="Page_headerTest()[pri:2, instance:com.PB.PageTest.PB_Upadate_contact_infopageTest@3ba987b8]" started-at="2023-05-04T23:17:49 IST" name="Page_headerTest" finished-at="2023-05-04T23:17:49 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Page_headerTest -->
+        <test-method signature="updatedSuccesfullyTest()[pri:3, instance:com.PB.PageTest.PB_Upadate_contact_infopageTest@3ba987b8]" started-at="2023-05-04T23:17:49 IST" name="updatedSuccesfullyTest" finished-at="2023-05-04T23:17:50 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatedSuccesfullyTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_Upadate_contact_infopageTest@3ba987b8]" started-at="2023-05-04T23:17:50 IST" name="closebrowser" finished-at="2023-05-04T23:17:54 IST" duration-ms="3680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_Upadate_contact_infopageTest -->
+    </test> <!-- Para Bank APP Updatecontactinfo Page Test -->
+    <test started-at="2023-05-04T23:17:54 IST" name="Para Bank APP Logout Page Test" finished-at="2023-05-04T23:18:11 IST" duration-ms="16916">
+      <class name="com.PB.PageTest.PB_LogoutPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_LogoutPageTest@68c9133c]" started-at="2023-05-04T23:17:54 IST" name="setup" finished-at="2023-05-04T23:18:03 IST" duration-ms="9073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="dologoutTest()[pri:0, instance:com.PB.PageTest.PB_LogoutPageTest@68c9133c]" started-at="2023-05-04T23:18:03 IST" name="dologoutTest" finished-at="2023-05-04T23:18:06 IST" duration-ms="2746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologoutTest -->
+        <test-method signature="getloginpageURLTest()[pri:1, instance:com.PB.PageTest.PB_LogoutPageTest@68c9133c]" started-at="2023-05-04T23:18:06 IST" name="getloginpageURLTest" finished-at="2023-05-04T23:18:06 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getloginpageURLTest -->
+        <test-method signature="getpageTitleTest()[pri:2, instance:com.PB.PageTest.PB_LogoutPageTest@68c9133c]" started-at="2023-05-04T23:18:06 IST" name="getpageTitleTest" finished-at="2023-05-04T23:18:06 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpageTitleTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_LogoutPageTest@68c9133c]" started-at="2023-05-04T23:18:06 IST" name="closebrowser" finished-at="2023-05-04T23:18:11 IST" duration-ms="5033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_LogoutPageTest -->
+    </test> <!-- Para Bank APP Logout Page Test -->
+    <test started-at="2023-05-04T23:18:11 IST" name="Para Bank APP Admin page Test" finished-at="2023-05-04T23:18:23 IST" duration-ms="12234">
+      <class name="com.PB.PageTest.PB_AdminpageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:11 IST" name="setup" finished-at="2023-05-04T23:18:17 IST" duration-ms="6178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateToadminpageTest()[pri:0, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:17 IST" name="navigateToadminpageTest" finished-at="2023-05-04T23:18:19 IST" duration-ms="1615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToadminpageTest -->
+        <test-method signature="getadminpage_urlTest()[pri:1, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:19 IST" name="getadminpage_urlTest" finished-at="2023-05-04T23:18:19 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getadminpage_urlTest -->
+        <test-method signature="admin_paheheaderTest()[pri:2, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:19 IST" name="admin_paheheaderTest" finished-at="2023-05-04T23:18:19 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admin_paheheaderTest -->
+        <test-method signature="admintableheading_textTest()[pri:3, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:19 IST" name="admintableheading_textTest" finished-at="2023-05-04T23:18:19 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admintableheading_textTest -->
+        <test-method signature="tablecountTest()[pri:4, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:19 IST" name="tablecountTest" finished-at="2023-05-04T23:18:19 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablecountTest -->
+        <test-method signature="databaseTextTest()[pri:5, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:19 IST" name="databaseTextTest" finished-at="2023-05-04T23:18:20 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- databaseTextTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_AdminpageTest@1a75e76a]" started-at="2023-05-04T23:18:20 IST" name="closebrowser" finished-at="2023-05-04T23:18:23 IST" duration-ms="3753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_AdminpageTest -->
+    </test> <!-- Para Bank APP Admin page Test -->
+    <test started-at="2023-05-04T23:18:23 IST" name="Para Bank APP service page Test" finished-at="2023-05-04T23:18:35 IST" duration-ms="11618">
+      <class name="com.PB.PageTest.PB_ServicesPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:23 IST" name="setup" finished-at="2023-05-04T23:18:29 IST" duration-ms="5897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateToServicesPageTest()[pri:0, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:29 IST" name="navigateToServicesPageTest" finished-at="2023-05-04T23:18:31 IST" duration-ms="2165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToServicesPageTest -->
+        <test-method signature="getcurrent_urlTest()[pri:1, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:31 IST" name="getcurrent_urlTest" finished-at="2023-05-04T23:18:31 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcurrent_urlTest -->
+        <test-method signature="last_table_headingTest()[pri:2, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:31 IST" name="last_table_headingTest" finished-at="2023-05-04T23:18:31 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last_table_headingTest -->
+        <test-method signature="tablecountTest()[pri:3, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:31 IST" name="tablecountTest" finished-at="2023-05-04T23:18:32 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablecountTest -->
+        <test-method signature="Table1textTest()[pri:4, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:32 IST" name="Table1textTest" finished-at="2023-05-04T23:18:32 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Table1textTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_ServicesPageTest@710c2b53]" started-at="2023-05-04T23:18:32 IST" name="closebrowser" finished-at="2023-05-04T23:18:35 IST" duration-ms="3364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_ServicesPageTest -->
+    </test> <!-- Para Bank APP service page Test -->
+    <test started-at="2023-05-04T23:18:35 IST" name="Para Bank APP Footer page Test" finished-at="2023-05-04T23:18:52 IST" duration-ms="16911">
+      <class name="com.PB.PageTest.PB_FooterpageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:35 IST" name="setup" finished-at="2023-05-04T23:18:45 IST" duration-ms="9788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="footer_link_countTest()[pri:1, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:45 IST" name="footer_link_countTest" finished-at="2023-05-04T23:18:45 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footer_link_countTest -->
+        <test-method signature="footer_textTest()[pri:2, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:45 IST" name="footer_textTest" finished-at="2023-05-04T23:18:45 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footer_textTest -->
+        <test-method signature="services_linksTest()[pri:3, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:45 IST" name="services_linksTest" finished-at="2023-05-04T23:18:46 IST" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- services_linksTest -->
+        <test-method signature="customer_careTest()[pri:4, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:46 IST" name="customer_careTest" finished-at="2023-05-04T23:18:48 IST" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_careTest -->
+        <test-method signature="customer_care_requestTest()[pri:5, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:48 IST" name="customer_care_requestTest" finished-at="2023-05-04T23:18:48 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_care_requestTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_FooterpageTest@7e057f43]" started-at="2023-05-04T23:18:48 IST" name="closebrowser" finished-at="2023-05-04T23:18:52 IST" duration-ms="3481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_FooterpageTest -->
+    </test> <!-- Para Bank APP Footer page Test -->
+    <test started-at="2023-05-04T23:18:52 IST" name="Para Bank APP AboutUs Page Test" finished-at="2023-05-04T23:19:03 IST" duration-ms="11500">
+      <class name="com.PB.PageTest.PB_AboutUsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:18:52 IST" name="setup" finished-at="2023-05-04T23:18:58 IST" duration-ms="6330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="navigateTo_PB_AboutUsPage()[pri:0, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:18:58 IST" name="navigateTo_PB_AboutUsPage" finished-at="2023-05-04T23:19:00 IST" duration-ms="1674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo_PB_AboutUsPage -->
+        <test-method signature="geturlTest()[pri:1, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:19:00 IST" name="geturlTest" finished-at="2023-05-04T23:19:00 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturlTest -->
+        <test-method signature="headerTest()[pri:2, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:19:00 IST" name="headerTest" finished-at="2023-05-04T23:19:00 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerTest -->
+        <test-method signature="linkTest()[pri:3, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:19:00 IST" name="linkTest" finished-at="2023-05-04T23:19:00 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+        <test-method signature="aboutus_textTest()[pri:4, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:19:00 IST" name="aboutus_textTest" finished-at="2023-05-04T23:19:00 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutus_textTest -->
+        <test-method signature="customer_noTest()[pri:5, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:19:00 IST" name="customer_noTest" finished-at="2023-05-04T23:19:00 IST" duration-ms="49" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.PB.PageTest.PB_AboutUsPageTest.customer_noTest(PB_AboutUsPageTest.java:40)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_noTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.PB.PageTest.PB_AboutUsPageTest@2b40ff9c]" started-at="2023-05-04T23:19:00 IST" name="closebrowser" finished-at="2023-05-04T23:19:03 IST" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.PB.PageTest.PB_AboutUsPageTest -->
+    </test> <!-- Para Bank APP AboutUs Page Test -->
+  </suite> <!-- Para Bank APP -->
+</testng-results>
